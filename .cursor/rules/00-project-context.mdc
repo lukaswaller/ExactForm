@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+# Project context — ExactForm
+- Read docs/05-architecture.md before any structural change; it is the contract.
+- Stack: Flutter (Dart), nerdamer+mathjs via flutter_js, flutter_math_fork, Riverpod, drift.
+- Offline-first: no network, no accounts, no ads in v1.
+- Never add GPL-licensed code (no Giac/Xcas). MIT/Apache only.
+- Keep changes small; one task at a time; update docs when decisions change.
